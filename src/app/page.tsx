@@ -64,7 +64,7 @@ export default function LandingPage() {
       ]}
       slides={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/antique-wood-with-worn-surface-metal-hinge_23-2148394809.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/antique-wood-with-worn-surface-metal-hinge_23-2148394809.jpg?_wi=1",
           imageAlt: "Joanie's bar interior",
         },
         {
@@ -111,7 +111,7 @@ export default function LandingPage() {
           description: "Featuring pool tables and a legendary jukebox.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/bartender-working-club_23-2150497630.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/bartender-working-club_23-2150497630.jpg?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -135,7 +135,7 @@ export default function LandingPage() {
           description: "Always served with a smile.",
           bentoComponent: "reveal-icon",
           icon: Wine,
-          imageSrc: "http://img.b2bpic.net/free-photo/antique-wood-with-worn-surface-metal-hinge_23-2148394809.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/antique-wood-with-worn-surface-metal-hinge_23-2148394809.jpg?_wi=2",
           imageAlt: "pool tables at a dive bar",
         },
         {
@@ -143,7 +143,7 @@ export default function LandingPage() {
           description: "A place where locals gather.",
           bentoComponent: "reveal-icon",
           icon: Music,
-          imageSrc: "http://img.b2bpic.net/free-photo/bartender-working-club_23-2150497630.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/bartender-working-club_23-2150497630.jpg?_wi=2",
           imageAlt: "pool tables at a dive bar",
         },
       ]}
